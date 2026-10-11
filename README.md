@@ -1,1 +1,3 @@
 # TideMesh
+
+TideMesh is a focused on helping communities and emergency responders prepare for coastal flooding in Mangaluru, Karnataka. It uses flood simulations and geospatial data to predict flood depth, extent, and timing, identify affected roads, buildings, and important facilities, and help responders prioritize areas that need urgent attention. The project uses SFINCS, HydroMT, and Python for flood modeling, with Next.js and MapLibre for the dashboard and PostgreSQL with PostGIS for geospatial data. The goal is to turn flood data into clear, useful information that supports faster and better emergency response.
